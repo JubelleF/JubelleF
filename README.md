@@ -22,9 +22,10 @@
 
 ## Methods and tools
 
-- **JavaScript** · 85%
+- **JavaScript** · 50%
 - **Python** · 14%
 - **CSS** · 1%
+- **Laravel** · 35%
 
 ## Research notes
 
@@ -34,7 +35,7 @@
 ```yaml
 name: Jubelle Franze Mabalatan
 focus: public experiments
-languages: [JavaScript, Python, CSS]
+languages: [JavaScript, Python, CSS, Laravel]
 repositories: 6
 ```
 
@@ -43,8 +44,6 @@ repositories: 6
 ## Experiments
 
 - **[exercise_solutions](https://github.com/JubelleF/exercise_solutions)** — Featured public work · ⭐ 0
-- **[Babydotnetgroup6](https://github.com/JubelleF/Babydotnetgroup6)** — Clothing Information · ⭐ 0
-- **[https-github.com-JubelleF-Clothing_Information](https://github.com/JubelleF/https-github.com-JubelleF-Clothing_Information)** — try · ⭐ 0
 - **[M13_JubelleFranze_Mabalatan_IT_Elect1](https://github.com/JubelleF/M13_JubelleFranze_Mabalatan_IT_Elect1)** — 3rd time using , for repo · ⭐ 0
 - **[Activity6-Git](https://github.com/JubelleF/Activity6-Git)** — 2nd time using git and creating repo · ⭐ 0
 - **[Activity4-GitRepo](https://github.com/JubelleF/Activity4-GitRepo)** — 1st time using git and creating repo · ⭐ 0
